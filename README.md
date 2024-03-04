@@ -1,6 +1,6 @@
 # Image Processing
 
-Edge & Contour Detection.
+Many topic & program about Image Processing 
 
 I'll be back soon.... 
 
